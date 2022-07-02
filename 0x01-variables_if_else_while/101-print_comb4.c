@@ -6,6 +6,8 @@
 * Return: Always 0 (Sucess)
 */
 
+int main(void)
+
 {
 	int n, m, l;
 
