@@ -4,14 +4,14 @@
  * @n: int type number
  * Return: absolute value of @n
  */
-int _abs(int r)
+int _abs(int n)
 {
-	if (r < 0)
+	if (n < 0)
 	{
-		return (r * -1);
+		return (n * -1);
 	}
 	else
 	{
-		return (r);
+		return (n);
 	}
 }
